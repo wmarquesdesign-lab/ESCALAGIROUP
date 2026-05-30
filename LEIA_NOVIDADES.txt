@@ -1,0 +1,20 @@
+NOVIDADES DESTA VERSÃO
+
+1. Gerenciar setores
+- Botão para acrescentar setor novo.
+- Botão para deletar o setor selecionado.
+- Os setores ficam salvos no aparelho.
+
+2. Fundo por setor
+- Importador de imagem de fundo para o setor selecionado.
+- O fundo aparece atrás da escala, inclusive na visualização/impressão.
+- Botão para remover o fundo do setor atual.
+
+3. Mantido o que já existia
+- Mobile e desktop.
+- PWA instalável.
+- Impressão A4/A3.
+- Arquivos salvos.
+- Backup e restauração.
+- Turnos individuais.
+- Setor Salão / Repositores.

@@ -1,0 +1,21 @@
+GIROUP ESCALA - VERSÃO COMPLETA
+
+Melhorias incluídas:
+- Mantido mobile, desktop, PWA e setor SALÃO / REPOSITORES.
+- Painel de arquivos salvos com busca por setor, encarregado, data e funcionário.
+- Botões para abrir, copiar, renomear e excluir arquivos salvos.
+- Backup em JSON e restauração em outro celular/computador.
+- Espelho em IndexedDB quando o navegador permitir, mantendo localStorage como compatibilidade.
+- Quantidade individual por turno limitada de 1 a 20.
+- Limpar somente manhã, tarde ou noite.
+- Copiar semana atual para os arquivos salvos.
+- Resumo automático: funcionários, trabalho, folga, férias e vazios.
+- Modo escuro.
+- Botão PDF: abre a impressão para escolher Salvar como PDF ou impressora.
+- Compartilhar pelo celular quando o navegador permitir.
+- Impressão A4/A3 com a interface oculta.
+
+Como usar:
+1. Envie todos os arquivos para o Netlify ou abra o index.html no navegador.
+2. No celular, toque nos 3 pontos do navegador e escolha Adicionar à tela inicial/Instalar app.
+3. Para atualizar no Netlify, envie este ZIP completo.
