@@ -1,18 +1,15 @@
 {
-  "name": "GiroUP Escala de Folgas Mobile e Desktop",
-  "short_name": "GiroUP Escala",
+  "name": "GiroUp Soluções para Varejo",
+  "short_name": "GiroUp",
   "start_url": "./index.html",
-  "scope": "./",
   "display": "standalone",
-  "background_color": "#071735",
-  "theme_color": "#071735",
-  "orientation": "any",
+  "background_color": "#160000",
+  "theme_color": "#d71920",
   "icons": [
     {
-      "src": "giroup-logo.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "src": "assets/giroup-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
     }
   ]
 }

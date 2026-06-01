@@ -1,0 +1,5 @@
+Alterações feitas:
+- Logo superior do app de cartaz trocada para GiroUp, sem mexer nos templates/preview.
+- Controles que ficavam acima do preview movidos para o painel lateral do Gerador de Cartaz.
+- Margem de segurança pontilhada removida totalmente do preview.
+- Templates originais preservados.
